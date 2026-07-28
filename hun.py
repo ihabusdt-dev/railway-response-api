@@ -10,11 +10,11 @@ from datetime import datetime
 # 🔥 طباعة تقرير
 REPORT_EVERY = 1000
 # 🔥 رفع GitHub
-PUSH_EVERY = 1000
+PUSH_EVERY = 10000
 # 🔥 حفظ backup
 BACKUP_EVERY = 50000
 # 🔥 عدد مرات تطبيق الفلتر
-FILTER_REPEAT = 45000
+FILTER_REPEAT = 35000
 # 🔥 ffmpeg المعدل
 FFMPEG_BIN = "./tiny/ffmpeg"
 # 🔥 filter.txt
